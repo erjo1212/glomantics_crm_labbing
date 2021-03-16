@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-asfdsafdafBOGUS
+
 """
 Author: Nick Russo
 Purpose: A simple Flask web app that demonstrates the Model View Controller
