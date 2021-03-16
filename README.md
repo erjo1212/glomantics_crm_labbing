@@ -7,3 +7,4 @@ out. This makes it easy to toggle between different styles for version
 control testing.
 
 Never ever edit directly on files in GITHUB!
+NOTE: version 2 will be way better
